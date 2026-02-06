@@ -1,5 +1,27 @@
-# 💫 About Me:
-🔭 I’m currently working on Data Analytics + Data Engineering projects (SQL, Python, ETL, dashboards)<br><br>👯 I’m looking to collaborate on analytics dashboards, ETL pipelines, and automation projects<br><br>🤝 I’m looking for help with cloud data tools (AWS/GCP), orchestration (Airflow), and production-grade pipelines<br><br>🌱 I’m currently learning dbt, Spark, advanced SQL, and system design basics<br><br>💬 Ask me about SQL, Python, Tableau/Power BI, A/B testing, ETL<br><br>⚡ Fun fact: I love turning messy data into clean stories and actionable insights
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Bindu%20Madhavi%20Edara&fontSize=40&fontAlignY=35)
+<h3 align="center">Final-semester MS Data Analytics | Data Analyst • Business Analyst • Data Engineer • Software Engineer</h3>
+
+
+## 🦅 About Me
+
+```yaml
+name: Bindu Madhavi Edara
+education:
+  degree: MS in Data Analytics
+  status: Final Semester
+current_focus:
+  - Data Analytics & Business Intelligence
+  - Data Engineering (ETL, Pipelines, Cloud)
+  - Software Development (APIs, Full-stack)
+skills:
+  - SQL, Python, Excel
+  - Tableau/Power BI, KPI Dashboards
+  - MySQL/PostgreSQL, MongoDB
+open_to:
+  - Data Analyst / Business Analyst roles
+  - Data Engineer roles
+  - Software Engineer / Developer roles
+
 
 
 ## 🌐 Socials:
